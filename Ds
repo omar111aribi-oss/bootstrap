@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Demon Slayer — Pagina Fan (Originale, riutilizzabile)</title>
+<meta name="description" content="Fan page originale su Demon Slayer: panoramica, personaggi, come guardarlo legalmente. Contenuto originale rilasciato CC0." />
+<style>
+  :root{
+    --bg:#0b0f13; --card:#0f1720; --accent:#ff6b6b; --muted:#9aa5b1; --glass: rgba(255,255,255,0.04);
+    --maxw:900px;
+    font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:linear-gradient(180deg,#071019 0%, #08131a 60%); color:#e6eef6;
+    display:flex; align-items:flex-start; justify-content:center; padding:36px 16px;
+  }
+  .page{width:100%; max-width:var(--maxw);}
+  header{display:flex; gap:16px; align-items:center; margin-bottom:20px;}
+  .logo{
+    width:84px; height:84px; border-radius:12px; background:linear-gradient(135deg,var(--accent),#ff9d66);
+    display:flex; align-items:center; justify-content:center; font-weight:700; color:#0b0f13; font-size:18px;
+    box-shadow:0 6px 18px rgba(0,0,0,0.5);
+  }
+  h1{margin:0; font-size:20px; letter-spacing:0.2px;}
+  p.lead{margin:4px 0 0; color:var(--muted); font-size:14px;}
+  main{display:grid; grid-template-columns: 1fr; gap:18px;}
+  .card{background:linear-gradient(180deg,var(--card), #0c131a); border-radius:12px; padding:16px; box-shadow: 0 6px 30px rgba(2,6,12,0.6);}
+  .grid-2{display:grid; grid-template-columns: 1fr 320px; gap:16px;}
+  @media (max-width:880px){ .grid-2{grid-template-columns:1fr;} .logo{width:64px;height:64px} }
+  .meta{display:flex; gap:12px; flex-wrap:wrap; color:var(--muted); font-size:13px;}
+  .section-title{display:flex; justify-content:space-between; align-items:center; gap:12px;}
+  .section-title h2{margin:0;font-size:16px}
+  .summary{line-height:1.5; color:#dbe8f5; font-size:15px}
+  .chars{display:flex; flex-direction:column; gap:10px;}
+  .char{
+    display:flex; gap:12px; align-items:flex-start; padding:10px; background:var(--glass); border-radius:10px;
+  }
+  .thumb{width:72px;height:72px;border-radius:8px;background:linear-gradient(180deg,#0a0f14,#12202b);display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:12px}
+  .char h3{margin:0;font-size:15px}
+  .char p{margin:6px 0 0;color:var(--muted); font-size:13px; line-height:1.4}
+  .cta{display:flex; gap:8px; margin-top:10px; flex-wrap:wrap}
+  .btn{background:var(--accent); color:#071019; padding:10px 12px; border-radius:10px; font-weight:600; border:none; cursor:pointer; text-decoration:none;}
+  .ghost{background:transparent; border:1px solid rgba(255,255,255,0.06); color:var(--muted); padding:8px 10px; border-radius:10px;}
+  footer{margin-top:12px; color:var(--muted); font-size:13px; text-align:center}
+  .legal{font-size:12px; color:#9fb0c5; margin-top:8px}
+  .howto{background:linear-gradient(180deg,#07101a,#08121a); padding:12px; border-radius:10px;}
+  .list{display:grid; gap:8px; margin-top:8px}
+  .pill{display:inline-block;padding:6px 8px;background:#0c1820;border-radius:999px;color:var(--muted);font-size:13px}
+</style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <div class="logo">DS</div>
+      <div>
+        <h1>Demon Slayer — Pagina fan (template originale)</h1>
+        <p class="lead">Pagina creata originalmente e rilasciata CC0. Testi originali, immagini da sostituire con materiale autorizzato.</p>
+      </div>
+    </header>
+
+    <main>
+      <section class="card">
+        <div class="section-title">
+          <h2>Panoramica</h2>
+          <div class="pill">Fan page | Contenuto originale</div>
+        </div>
+        <p class="summary">
+          <strong>Demon Slayer</strong> è una serie che mescola avventura, azione e dramma umano attorno a giovani guerrieri che affrontano minacce soprannaturali. Questa pagina offre una panoramica sintetica, profili dei personaggi principali, suggerimenti su dove guardarla legalmente e piccoli approfondimenti per i fan — tutto scritto da zero.
+        </p>
+
+        <div style="margin-top:12px" class="meta">
+          <span>Genere: Azione, Fantasy, Dramma</span>
+          <span>Formato: Manga → Animazione</span>
+          <span>Natura: Opera protetta da copyright</span>
+        </div>
+      </section>
+
+      <div class="grid-2">
+        <section class="card">
+          <div class="section-title">
+            <h2>Personaggi principali (brevi profili)</h2>
+            <div class="pill">Originale</div>
+          </div>
+
+          <div class="chars" style="margin-top:12px">
+            <div class="char">
+              <div class="thumb">Immagine</div>
+              <div>
+                <h3>Tanjiro — (profilo fan)</h3>
+                <p>Un giovane deciso e compassionevole, noto per la sua tenacia. In battaglia usa abilità sviluppate con dure prove e un forte senso di protezione verso i suoi cari.</p>
+              </div>
+            </div>
+
+            <div class="char">
+              <div class="thumb">Immagine</div>
+              <div>
+                <h3>Nezuko — (profilo fan)</h3>
+                <p>Un personaggio che incarna resilienza e connessione emotiva: la sua presenza è spesso il fulcro delle scelte morali degli altri protagonisti.</p>
+              </div>
+            </div>
+
+            <div class="char">
+              <div class="thumb">Immagine</div>
+              <div>
+                <h3>Zenitsu & Inosuke — (profilo fan)</h3>
+                <p>Duo che bilancia tensione e comicità: uno guidato dalla paura trasformata in coraggio, l'altro impulsivo e coraggioso sul campo di battaglia.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="howto" style="margin-top:14px">
+            <strong>Nota:</strong> i profili sopra sono scritti come guida fan e non riproducono materiale testuale originale protetto.
+          </div>
+        </section>
+
+        <aside class="card">
+          <div class="section-title"><h2>Guarda legalmente</h2></div>
+          <div style="margin-top:10px;color:var(--muted);font-size:14px">
+            <ul style="padding-left:18px; margin:8px 0 0;">
+              <li>Netflix, Crunchyroll, Amazon Prime Video o altri servizi possono offrire la serie a seconda della regione.</li>
+              <li>Per audio originale: verifica le opzioni audio nella scheda dell'episodio sul servizio che usi.</li>
+              <li>Evita siti non autorizzati: rischi di malware e qualità scadente.</li>
+            </ul>
+          </div>
+
+          <div class="cta" style="margin-top:12px">
+            <a class="btn" href="#" onclick="alert('Controlla la disponibilità sul servizio scelto.');return false">Controlla disponibilità</a>
+            <a class="ghost" href="#" onclick="alert('Sostituisci con link per acquistare merchandise o supportare l\'opera.');return false">Supporta l'opera</a>
+          </div>
+        </aside>
+      </div>
+
+      <section class="card">
+        <div class="section-title">
+          <h2>Mini‑guida per i nuovi fan</h2>
+          <div class="pill">Consigli e risorse</div>
+        </div>
+        <div class="summary" style="margin-top:10px;">
+          <p>
+            Se sei nuovo nel mondo di <strong>Demon Slayer</strong>, ecco qualche consiglio per iniziare:
+          </p>
+          <ul style="padding-left:18px; margin-top:8px;">
+            <li>Inizia leggendo il manga o guardando l’anime dalla prima stagione per comprendere bene la storia e i personaggi.</li>
+            <li>Consulta forum o community online per scambiare opinioni e scoprire teorie interessanti.</li>
+            <li>Ricorda di rispettare sempre i diritti d’autore: usa solo fonti legali per goderti la serie.</li>
+            <li>Se ti piace il merchandise, cerca negozi ufficiali o piattaforme autorizzate per supportare gli autori.</li>
+          </ul>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      © 2025 Demon Slayer Fan Page — Contenuto originale rilasciato CC0.
+      <div class="legal">
+        <p>Immagini da sostituire con materiale autorizzato. Non è un sito ufficiale.</p>
+      </div>
+    </footer>
+  </div>
+</body>
+</html
